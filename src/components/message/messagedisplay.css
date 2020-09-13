@@ -1,0 +1,24 @@
+.MuiTypography-h5 {
+    width: min-content;
+}
+.message{
+    margin:10px;
+    width: fit-content;
+}
+.texture-message{
+    color: white;
+    text-align: left;
+}
+.message__user{
+    float: right;
+    margin-left: auto;
+    color: white;
+}
+.message__userCard{
+    text-align: right;
+    background-color: darksalmon !important;
+}
+
+.message__guestCard{
+    background-color: gray !important;
+}
